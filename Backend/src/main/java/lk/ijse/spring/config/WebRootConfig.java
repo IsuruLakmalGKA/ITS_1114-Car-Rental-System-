@@ -5,7 +5,7 @@ import org.springframework.context.annotation.Import;
 
 /**
  * @author : Isuru Lakmal G K A
- * Date    : $(DATE)
+ * @since : 0.1.0
  **/
 
 @Configuration
