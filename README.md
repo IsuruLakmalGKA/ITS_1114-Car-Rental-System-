@@ -18,3 +18,7 @@
 ![Isuru Lakmal](Readme%20assets/12.png)
 ![Isuru Lakmal](Readme%20assets/13.png)
 ![Isuru Lakmal](Readme%20assets/14.png)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
